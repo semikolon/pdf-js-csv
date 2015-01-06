@@ -16,12 +16,6 @@
     "url": "https://github.com/semikolon/pdf-js-csv"
   },
   "main": "./lib/main",
-  "bin": {
-    "pdf2csv": "./bin/pdf2csv"
-  },
-  "config": {
-    "bin-links": false
-  },
   "keywords" : [ 
     "pdf", "csv", "xls", "scraping"
   ],
