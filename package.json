@@ -5,16 +5,23 @@
   "contributors": [ {
     "name": "Gary Sieling",
     "email": "gary.sieling@gmail.com"
-  } ],
+  },
+  {
+    "name": "Fredrik Bränström",
+    "email": "branstrom@gmail.com"
+  ],
   "version": "0.1.4",
   "repository": {
     "type": "git",
-    "url": "https://github.com/garysieling/pdf-js-csv"
+    "url": "https://github.com/semikolon/pdf-js-csv"
   },
   "main": "./lib/main",
   "bin": {
     "pdf2csv": "./bin/pdf2csv"
   },
+  "config": {
+    "bin-links": false
+  }
   "keywords" : [ 
     "pdf", "csv", "xls", "scraping"
   ],
