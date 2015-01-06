@@ -9,7 +9,7 @@
   {
     "name": "Fredrik Bränström",
     "email": "branstrom@gmail.com"
-  ],
+  } ],
   "version": "0.1.4",
   "repository": {
     "type": "git",
@@ -21,7 +21,7 @@
   },
   "config": {
     "bin-links": false
-  }
+  },
   "keywords" : [ 
     "pdf", "csv", "xls", "scraping"
   ],
